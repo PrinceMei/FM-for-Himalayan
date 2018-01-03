@@ -3,7 +3,7 @@
 //  MXPFM
 //
 //  Created by PrinceMei on 2018/1/3.
-//  Copyright © 2018年 Fsociety. All rights reserved.
+//  Copyright © 2018年 PrinceMei. All rights reserved.
 //
 
 #import "ViewController.h"
